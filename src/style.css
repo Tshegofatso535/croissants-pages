@@ -1,0 +1,26 @@
+ background{
+    color:brown;
+ }
+
+ body{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background: yellow;
+ }
+
+ a{
+    color: brown;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+
+ .croissants-photo{
+   max-width: 100%;
+   display: block;
+   border-radius: 20px;
+   margin:30px auto;
+   box-shadow: 0 5px 10px rgba(0,0,0.3);
+ }
+
+ p{
+    font-family: Arial, Helvetica, sans-serif;
+ }
